@@ -1,0 +1,1 @@
+nt("Go to hell")
