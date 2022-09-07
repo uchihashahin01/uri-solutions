@@ -7,3 +7,4 @@ for i in range(int(input())):
         print("ANY")
     else:
         print("NEW PHONE")
+        
